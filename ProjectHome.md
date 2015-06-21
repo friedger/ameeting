@@ -1,0 +1,1 @@
+Application to organise a meeting and exchange documents beforehand for android
